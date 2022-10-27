@@ -3,11 +3,13 @@ from pyrogram import Client
 from config import (API_HASH, API_ID, BOT_TOKEN, LOG_SESSION, STRING1, STRING2,
                     STRING3, STRING4, STRING5)
 
-app = Client(
-    "Rock-Muzic",
-    API_ID,
-    API_HASH,
-    bot_token=BOT_TOKEN,
+app = Client,
+    "Lovely Music",
+    API_ID,"9885470"
+    API_HASH,"84ff6bdb8eeb6e8bedf8a8192e3da3dd"
+    bot_token=BOT_TOKEN,"
+
+5303890134:AAHhOWza_Eq1XF-gOVbGxTWR7Nn4Yr2RN3s"
 )
 
 
